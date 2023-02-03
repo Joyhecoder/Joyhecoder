@@ -4,7 +4,7 @@
 <img style="margin: 10px" width="90%" src="https://github.com/Joyhecoder/Joyhecoder/blob/main/White%20Modern%20Graphic%20Designer%20Business%20Email%20Header.png" alt="banner that says Manjuan He - Software developer | Educator">
 </div>  
 <br/>
-<div align="center">Hi 👋 I'm Manjuan, also go by Joy. I am a full-stack software developer 👨‍💻 I taught at an elementary school for 5 years and worked at an EdTech company as an instructional coach. I discovered my passion for tech and studied web development on my own and at a bootcamp. </div>  
+<div align="center">Hi 👋 I'm Manjuan, also go by Joy. I am a full-stack software developer 👨‍💻 I taught at an elementary school for 5 years and worked at an EdTech company as an instructional coach. I currently work as a Teaching Assistant at DigitalCrafts coding bootcamp, supporting students' learning and providing troubleshooting and solutions. I discovered my passion for tech and studied web development on my own and at a bootcamp. </div>  
 <div align="center">I have two rescued doggies 🐶 and a kitten 🐱. I enjoy outdoors with my family and dancing. </div> 
 
 <br/>  
