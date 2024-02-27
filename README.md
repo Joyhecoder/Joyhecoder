@@ -4,8 +4,8 @@
 <img style="margin: 10px" width="90%" src="https://github.com/Joyhecoder/Joyhecoder/blob/main/White%20Modern%20Graphic%20Designer%20Business%20Email%20Header.png" alt="banner that says Manjuan He - Software developer | Educator">
 </div>  
 <br/>
-<div align="center">Hi 👋 I'm Manjuan, also go by Joy. I am a full-stack software developer 👨‍💻 I taught at public schools for 5 years and worked at an EdTech company as an instructional coach. I made a career transition in 2022 and took full-time courses at DigitalCrafts coding bootcamp. After finishing the program, I became a full-time Teaching Assistant at the bootcamp, supporting students' learning and providing troubleshooting and solutions. </div>  
-<div align="center">I currently work as a software developer apprentice at Develop Carolina and work with my host company Apploi as an intern. </div>
+<div align="center">Hi 👋 I'm Manjuan, also go by Joy. I am a full-stack software developer 👨‍💻 I taught at public schools for 5 years and transitioned into Tech. I took full-time courses at DigitalCrafts coding bootcamp and after finishing the program, I became a full-time Teaching Assistant at the bootcamp, and worked as a backend engineer apprentice at a healthcare startup, Apploi. </div>  
+<div align="center">I currently work as a Technical Business Analyst at Skillstorm and a contractor at PwC. </div>
 <div align="center">I have two rescued doggies 🐶 and a kitten 🐱. I enjoy outdoors with my family and dancing. </div> 
 
 <br/>  
