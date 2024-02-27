@@ -35,6 +35,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-apps" target="_blank"><img style="margin: 10px" src="https://media.licdn.com/dms/image/D4D12AQHxJEfCMmvqVw/article-cover_image-shrink_720_1280/0/1681895099008?e=2147483647&v=beta&t=Gjwwy8sqx8hUgHEc_AkNWlnfGlPxhBLjt4CBxMwwVPA" alt="Power App" height="50" /></a>  
 </div>
 
 
