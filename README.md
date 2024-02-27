@@ -44,7 +44,7 @@
 <br/>  
 
 ## Certifications
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-apps" target="_blank">Microsoft Power Platform Fundamentals PL-900</a>  
+<a href="https://learn.microsoft.com/en-us/users/manjuanhe-1435/credentials/c696f98f97ec527" target="_blank">Microsoft Power Platform Fundamentals PL-900</a>  
 <a href="https://badges.iiba.org/def66c0b-c299-42b3-bb96-3006ec6f89c9?record_view=true" target="_blank">Entry Certificate in Business Analysis</a>  
 
 
